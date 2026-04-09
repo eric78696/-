@@ -13,7 +13,7 @@ public:
     Player(int initialMoney = 1000);
     void addCard(Card c);
     void clearHand();
-    int calculateNiu(); // 0:¨S¤û, 1-9:¤û´X, 10:¤û¤û
+    int calculateNiu();  // 0:æ²’ç‰›, 1-9:ç‰›å¹¾, 10:ç‰›ç‰›
 };
 
 #endif
