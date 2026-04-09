@@ -11,7 +11,7 @@ public:
 
     Card(int s, int r);
     void show() const;      
-    int getNiuValue() const; // JQK ºâ 10 ÂI
+    int getNiuValue() const;// JQK ç®— 10 é»ž
 };
 
 #endif
