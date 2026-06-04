@@ -73,7 +73,8 @@
 **~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**
 
 * **主畫面**
-  ![主畫面](./images/screenshot_main.png)
+  ![主畫面](<img width="788" height="306" alt="螢幕擷取畫面 2026-06-04 154532" src="https://github.com/user-attachments/assets/ffda16f6-f6a6-4d25-bbe0-f2a3ade53c27" />
+)
 
 * **下注**
   ![下注](./images/screenshot_bet.png)
