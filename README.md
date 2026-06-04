@@ -1,3 +1,4 @@
+
 # 妞妞卡牌遊戲
 
 ## 文化大學 物件導向程式設計小專題
@@ -73,7 +74,7 @@
 **~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**
 
 * **主畫面**
-  ![主畫面](<img width="788" height="306" alt="螢幕擷取畫面 2026-06-04 154532" src="https://github.com/user-attachments/assets/ffda16f6-f6a6-4d25-bbe0-f2a3ade53c27" />
+  ![主畫面](<img width="788" height="306" alt="螢幕擷取畫面 2026-06-04 154532" src="https://github.com/user-attachments/assets/9e8ea236-00e0-43bb-9a4c-f9ece7a7f07a" />
 )
 
 * **下注**
