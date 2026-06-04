@@ -74,8 +74,7 @@
 **~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**
 
 * **主畫面**
-  ![主畫面](<img width="788" height="306" alt="螢幕擷取畫面 2026-06-04 154532" src="https://github.com/user-attachments/assets/9e8ea236-00e0-43bb-9a4c-f9ece7a7f07a" />
-)
+  ![主畫面](https://github.com/eric78696/-/blob/main/readme_res/%E4%B8%BB%E7%95%AB%E9%9D%A2.png)
 
 * **下注**
   ![下注](./images/screenshot_bet.png)
