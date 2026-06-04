@@ -81,9 +81,6 @@
   
   ![下注](https://github.com/eric78696/-/blob/main/readme_res/%E4%B8%8B%E6%B3%A8.png)
 
-* **抽牌**
-  ![抽牌](./images/screenshot_draw.png)
-
 * **小局結算**
   ![小局結算](./images/screenshot_result.png)
 
