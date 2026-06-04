@@ -74,12 +74,12 @@
 **~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**
 
 * **主畫面**
-* 
+  
   ![主畫面](https://github.com/eric78696/-/blob/main/readme_res/%E4%B8%BB%E7%95%AB%E9%9D%A2.png)
 
 * **下注**
-* 
-  ![下注]([./images/screenshot_bet.png](https://github.com/eric78696/-/blob/main/readme_res/%E4%B8%8B%E6%B3%A8.png))
+  
+  ![下注](https://github.com/eric78696/-/blob/main/readme_res/%E4%B8%8B%E6%B3%A8.png)
 
 * **抽牌**
   ![抽牌](./images/screenshot_draw.png)
