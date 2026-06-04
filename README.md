@@ -81,4 +81,5 @@
   ![小局結算](https://github.com/eric78696/-/blob/main/readme_res/%E5%B0%8F%E5%B1%80%E7%B5%90%E7%AE%97.png)
 
 * **遊戲結束**
+  
   ![遊戲結束](https://github.com/eric78696/-/blob/main/readme_res/%E9%81%8A%E6%88%B2%E7%B5%90%E6%9D%9F.png)
