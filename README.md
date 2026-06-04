@@ -51,9 +51,9 @@
 
 ---
 
-* 透過執行視窗上的操作指示，輸入其相對應動作的數值來進行。
+* **UML圖**
 
-![UML圖](./images/gameplay.png)
+![UML圖](https://github.com/eric78696/-/blob/main/readme_res/UML%E5%9C%96.png)
 
 ---
 
